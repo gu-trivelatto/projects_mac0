@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553307649 source:d:\_gustavo\projetos\ep1\subproblema.c
+
+1553362259 source:d:\_gustavo\projetos\ep1\senha.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1554674140 source:d:\_gustavo\projetos\ep1\ep1.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
